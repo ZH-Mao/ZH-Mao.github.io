@@ -12,15 +12,15 @@ Welcome! I am currently a Ph.D. student at the [Robotics Institute](https://www.
 
 I earned my Master's degree in Precision Instrument and Machinery from [University of Science and Technology of China](https://en.ustc.edu.cn/) (China) and my Bachelor's degree in Mechanical Design, Manufacturing, and Automation from [Hefei University of Technology](https://en.hfut.edu.cn/) (China). I commenced my Ph.D. study in August 2019. And my research topic is three-dimensional fusion for transesophageal echocardiography, which aims to overcome one important drawback (i.e., limited field of view) of three-dimensional transesophageal echocardiography (3D TEE) in both rigid and deformable scenarios. In the recent three years of my Ph.D. study, I have published several papers in:
 
-(1) [International Conference on Medical Image Computing and Computer Assisted Intervention](http://www.miccai.org/) (MICCAI, a top conference in medical image computing and computer-assisted intervention). I was awarded the Student Travel Award which is "To reward the best (such as highest scoring) first author students and to subsidise their attendance to the present their work at the annual MICCAI conference";
+##[International Conference on Medical Image Computing and Computer Assisted Intervention](http://www.miccai.org/) (MICCAI, a top conference in medical image computing and computer-assisted intervention). I was awarded the Student Travel Award which is "To reward the best (such as highest scoring) first author students and to subsidise their attendance to the present their work at the annual MICCAI conference";
 
-(2) [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) (IF=4.506);
+##[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) (IF=4.506);
 
-(3) Robotics: Science and Systems (RSS, a top conference in robotics);
+##Robotics: Science and Systems (RSS, a top conference in robotics);
 
-(4) [IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros) (IROS, one of the largest and most impacting robotics research conferences worldwide);
+##[IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros) (IROS, one of the largest and most impacting robotics research conferences worldwide);
 
-(5) [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) (IF=6.698).
+##[Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) (IF=6.698).
 
 Please find details on my current research on my [publications](publication) page and my previous publications on my homepage of [Google Scholar](https://scholar.google.com/citations?user=3-t9imkAAAAJ&hl=en).
 
