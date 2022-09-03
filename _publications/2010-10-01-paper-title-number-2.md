@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Feature-Based SLAM: Why Simultaneous Localisation and Mapping?"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2021-Feature-BasedSLAM
+date: 2021
+venue: '2021 Robotics: Science and Systems'
+paperurl: '/files/publications/2021-Feature-BasedSLAM.pdf'
+link: 'https://doi.org/10.15607/rss.2021.xvii.009'
+citation: 'L. Zhao, Z. Mao, and S. Huang, &quot;Feature-Based SLAM: Why Simultaneous Localisation and Mapping?&quot; <i>Robotics: Science and Systems,</i> 2021. doi:10.15607/rss.2021.xvii.009'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+[Download paper here](http://ZH-Mao.github.io/files/publications/2021-Feature-BasedSLAM.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
