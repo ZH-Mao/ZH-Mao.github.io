@@ -18,5 +18,3 @@ sciences.
 ## University of Technology Sydney
 - WINTER SCHOOL (Spring 2020)
 - OPTIMIZATION (Fall 2019)
-
-    
