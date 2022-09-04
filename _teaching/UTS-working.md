@@ -15,7 +15,7 @@ where I was a teaching assistant for a course on Bayesian modeling in the social
 sciences.
 
 
-## Washington University in St. Louis
+## University of Technology Sydney
 - WINTER SCHOOL (Spring 2020)
 - OPTIMIZATION (Fall 2019)
 
