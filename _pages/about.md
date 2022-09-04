@@ -17,6 +17,6 @@ I earned my Master's degree in Precision Instrument and Machinery from [Universi
 - [IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros) (IROS, one of the largest and most impacting robotics research conferences worldwide);
 - [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) (IF=6.698).
 
-Please find details on my current research on my [publications](publication) page and my previous publications on my homepage of [Google Scholar](https://scholar.google.com/citations?user=3-t9imkAAAAJ&hl=en).
+Please find details on my current research on my [Publications](publications) page and my previous publications on my homepage of [Google Scholar](https://scholar.google.com/citations?user=3-t9imkAAAAJ&hl=en).
 
 During my Ph.D. study, I have been also working as a casual staff (tutor) in UTS for years. In the future, I am planning to pursue a career in academia. Therefore, I am now searching for a postdoctoral position. If you are interested in my research, you are warmly welcome to contact me!
