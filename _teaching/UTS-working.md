@@ -1,6 +1,10 @@
 ---
-permalink: /teaching/
-title: "Teaching"
+title: "Academic Tutor"
+collection: teaching
+type: "Undergraduate course"
+venue: "University of Technology Sydney, Faculty of Engineering and IT"
+date: 2020-01-01
+location: "City, Country"
 ---
 
 Research plays a central role in my teaching as students improve their
@@ -13,8 +17,3 @@ Teaching. I also served as a teaching assistant for courses in international
 relations and American politics at UNC, in addition to the ICPSR Summer Program
 where I was a teaching assistant for a course on Bayesian modeling in the social
 sciences.
-
-
-## University of Technology Sydney
-- WINTER SCHOOL (Spring 2020)
-- OPTIMIZATION (Fall 2019)
