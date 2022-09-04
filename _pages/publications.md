@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Please find all my publications on [Google Scholar Progile](https://scholar.google.com/citations?user=3-t9imkAAAAJ&hl=en).
