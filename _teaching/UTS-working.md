@@ -1,7 +1,7 @@
 ---
 title: "Academic Tutor"
 collection: teaching
-type: "Undergraduate course"
+type: "Master course"
 venue: "University of Technology Sydney, Faculty of Engineering and IT"
 date: 2020-01-01
 location: "City, Country"
