@@ -12,7 +12,6 @@ Political Science Department's Earle Wallace Award for Graduate Student
 Teaching. I also served as a teaching assistant for courses in international
 relations and American politics at UNC, in addition to the ICPSR Summer Program
 where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences.
 
 
 ## University of Technology Sydney
