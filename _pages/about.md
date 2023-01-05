@@ -19,7 +19,7 @@ I earned my Master's degree in Precision Instrument and Machinery from [Universi
 
 Please find details on my current research on my [Publications](publications) page and my previous publications on my homepage of [Google Scholar](https://scholar.google.com/citations?user=3-t9imkAAAAJ&hl=en).
 
-During my Ph.D. study, I have been also working as an academic tutor in UTS for years. In the future, I am planning to pursue a career in academia. Therefore, I am now searching for a postdoctoral position. My research interests include *SLAM, Surgical Robotics, Computer-Assisted Intervention, Medical Image Computing*. If you are interested in my research, you are warmly welcome to contact me!
+During my Ph.D. study, I have been also working as an academic tutor in UTS for 3 years. In the future, I am planning to pursue a career in academia. Therefore, I am now searching for a postdoctoral position. My research interests include *SLAM, Surgical Robotics, Computer-Assisted Intervention, Medical Image Computing*. If you are interested in my research, you are warmly welcome to contact me!
 
 
 **Last updated on Sep. 06, 2022**
