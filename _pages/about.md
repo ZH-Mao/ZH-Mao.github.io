@@ -22,4 +22,4 @@ Please find details on my current research on my [Publications](publications) pa
 During my Ph.D. study, I have been also working as an academic tutor in UTS for 3 years. In the future, I am planning to pursue a career in academia. Therefore, I am now searching for a postdoctoral position. My research interests include *SLAM, Surgical Robotics, Computer-Assisted Intervention, Medical Image Computing*. If you are interested in my research, you are warmly welcome to contact me!
 
 
-**Last updated on Sep. 06, 2022**
+**Last updated on Jan. 05, 2023**
